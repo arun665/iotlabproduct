@@ -1,0 +1,259 @@
+@media screen and (min-width: 992px) {
+
+    /* nav code here */
+    
+    #header {
+    
+        list-style-type: none;
+  
+        padding-left: 4%;
+        padding-right: 2%;
+        
+        overflow: hidden;
+        width:100%;
+       background-color:#007FEB;
+       margin-bottom:0%;
+       
+      }
+      
+      #logo{
+          height: 60px;
+          width:200px;
+    
+      }
+      #logoimg{
+        height: 40px;
+        width:40px;
+    
+      }
+    
+          #cart{
+            height:50px;
+            width:85px;  
+          }
+          #profile{
+              margin-top:4px;
+            height:45px;
+            width:75px;     
+           }
+    
+           .menuitem {
+            float: left;
+            margin-top: auto;
+          margin-bottom: auto;
+          height: 100%;
+          
+          }
+          #brand{
+            padding:2px 6px;
+          }
+        
+          .menuitem a {
+        font-size: 25px;
+        font-family: 'Berkshire Swash';
+            display: block;
+            color: white;
+            height: 100%;
+            text-align: center;
+            padding-top:5px;
+            padding-bottom: 5px;;
+            margin-top: auto;
+            margin-bottom: auto;
+            text-decoration: none;
+          }
+          
+    
+           /* nav bar section ends  */
+    
+    
+    
+    
+           /*  footer part */
+    
+           #footer{
+            padding:2%;
+            padding-left:8%;
+        }
+        #footerbuttons{
+            margin-right:8%;
+        }
+        #lastcol1{
+            width:55%;
+        }
+          .lastimg{
+            height:200px;
+            width:450px;
+        }
+        #tableb{
+            color:white;font-weight:bold;
+            font-size:20px;
+        }
+        #map{
+            width:25px;
+        }
+        #mail{
+            width:25px;
+        }
+      
+    
+    .fa {
+        
+        height: 70px;
+            width: 70px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+        
+            
+            transition: 1s;
+          }
+          
+        
+        .fa2{
+            
+            height: 72px;
+                width: 72px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+            
+                
+                transition: 1s;
+              }
+    
+
+
+              #productdiv{
+             background-color: black;
+             height:92%;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                background-size: cover;
+                -o-background-size: cover;
+                margin-top:0%;
+              }
+              #productoutdiv{
+                  height:100%;
+                  padding-top:20%;
+
+              }
+
+              
+    
+              #product{
+                  height:80%;
+                  width:120%;
+                  vertical-align: middle;
+                  margin-top: auto;
+                  margin-bottom:auto;
+                  position: relative;
+                  animation: myfirst 5s infinite;
+                  animation-direction: alternate;
+              }
+              @keyframes myfirst {
+                0%   { top: 0px;}
+              
+                50%  {  top: 50px;}
+               
+                100% { top: 0px;}
+              }
+                   
+              body, html {
+                height: 100%;
+                margin: 0;
+              }
+              #productdivhead{
+                  height:100%;
+              }
+              #productheading{
+                   text-align: end;
+                   float:right;
+                   position:absolute;
+                   bottom:0px;
+                   bottom:0;
+                   margin-bottom:5%;
+                   right:0;
+                   margin-right:5%;
+                   font-size:7vw;
+              }
+            #seconddivbtn{
+                margin:1%;
+                width:80%;
+                    border-radius: 20px;
+            }
+            #seconddiv{
+                margin-top:5%;
+                margin-bottom:5%;
+            }
+            #seconddivpara{
+                font-size:1.3vw;
+            }
+            #table1{
+                border-top:1px solid grey;   
+                
+            }
+            #table1 tr{
+             border-bottom:1px solid grey;   
+            }
+            }
+    
+  
+    
+    
+    
+    
+    @media screen and (max-width: 450px) and    (min-width: 399px){
+    
+            
+        #studentbox{
+            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:25px;
+            width:100%;
+            position: relative;
+            
+        
+            margin-bottom:1%;
+        top:230px;
+        
+        }
+    
+    
+    }
+    
+    
+     
+    
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
