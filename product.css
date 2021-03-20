@@ -191,6 +191,7 @@
             #table1{
                 border-top:1px solid grey;   
                 margin-bottom:5%;
+                width:70%;
                 
             }
             #table1 tr{
@@ -218,6 +219,7 @@
 #card1row{
   height:400px;
   margin-bottom:10%;
+  width:80%;
 }
 #card1row:hover{
   box-shadow: 5px 10px 18px #888888;
@@ -226,6 +228,7 @@
 #card2row{
   height:400px;
   margin-bottom:40%;
+  width:80%;
 }
 #card2row:hover{
   box-shadow: 5px 10px 18px #888888;
@@ -267,33 +270,15 @@
 #legend1{
   display:none;
 }
+#productheading2{
+display:none;
+}
  
             }
     
   
     
     
-    
-    
-    @media screen and (max-width: 450px) and    (min-width: 399px){
-    
-            
-        #studentbox{
-            PADDING:1%;background-color:hsl(0, 0%, 100% , 0.6);border-radius:25px;
-            width:100%;
-            position: relative;
-            
-        
-            margin-bottom:1%;
-        top:230px;
-        
-        }
-    
-    
-    }
-    
-    
-     
     
             
     
