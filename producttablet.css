@@ -292,7 +292,7 @@ display:none;
      @keyframes myfirst {
        0%   { top: 0px;}
      
-       50%  {  top: 50px;}
+       50%  {  top: 10px;}
       
        100% { top: 0px;}
      }
